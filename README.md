@@ -1,5 +1,5 @@
-# Ola_project_July_2024
-# Airlines-Dashboard
+# Ola_project_July_2024 (Dashboard Project)
+
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/9973e481-23da-4c8f-b753-e30c8f341bfe/40a766c2a26e09b2be39?experience=power-bi
 
